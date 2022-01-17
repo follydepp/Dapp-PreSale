@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x3eCaB656bFE68Bc88F59eFbC26553B98f812e3E5",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3ecab656bfe68bc88f59efbc26553b98f812e3e5",
+  "CONTRACT_ADDRESS": "0x43A1e4DF222f55A45EBC943a4E8C379cecD62b67",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x43a1e4df222f55a45ebc943a4e8c379cecd62b67",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "The Folly Ape NFT",
-  "SYMBOL": "FANFT",
-  "MAX_SUPPLY": 8888,
-  "WEI_COST": 39600000000000000,
-  "DISPLAY_COST": 0.0396,
+  "NFT_NAME": "The Cool I NFT",
+  "SYMBOL": "CoolI",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 77000000000000000,
+  "DISPLAY_COST": 0.077,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/follyav1",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cool-i-v3",
   "SHOW_BACKGROUND": true
 }
